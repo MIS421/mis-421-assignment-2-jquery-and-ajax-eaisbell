@@ -9,6 +9,7 @@ body {
 
 #time {
     visibility: hidden; 
+    color: black;
 }
 
 #header{
@@ -23,13 +24,13 @@ body {
 .text{
     font-family: Garamond;
     text-align: center;
-    color: white; 
+    color: black; 
     font-size: 2.5rem;
     font-weight: bold; 
 }
 
 button{
-    color: white;
+    color: black;
     font-size: 1.2rem; 
     background-color: rosybrown; 
     font-family: Garamond; 
