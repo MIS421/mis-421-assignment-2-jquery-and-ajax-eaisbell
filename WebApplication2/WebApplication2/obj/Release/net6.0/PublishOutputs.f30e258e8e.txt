@@ -1,0 +1,7 @@
+C:\Users\emmai\Source\Repos\mis-421-assignment-2-jquery-and-ajax-eaisbell\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.exe
+C:\Users\emmai\Source\Repos\mis-421-assignment-2-jquery-and-ajax-eaisbell\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\emmai\Source\Repos\mis-421-assignment-2-jquery-and-ajax-eaisbell\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\emmai\Source\Repos\mis-421-assignment-2-jquery-and-ajax-eaisbell\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.dll
+C:\Users\emmai\Source\Repos\mis-421-assignment-2-jquery-and-ajax-eaisbell\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.deps.json
+C:\Users\emmai\Source\Repos\mis-421-assignment-2-jquery-and-ajax-eaisbell\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+C:\Users\emmai\Source\Repos\mis-421-assignment-2-jquery-and-ajax-eaisbell\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.pdb

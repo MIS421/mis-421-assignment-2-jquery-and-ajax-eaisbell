@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emmai\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\emmai\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emmai\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\emmai\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emmai\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\emmai\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\emmai\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\emmai\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\emmai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emmai\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\emmai\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-eaisbell\\WebApplication2\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emmai\\AppData\\Roaming\\NuGet\\NuGet.Config",

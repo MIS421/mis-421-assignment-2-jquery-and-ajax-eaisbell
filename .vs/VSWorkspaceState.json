@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\WebApplication2",
-    "\\WebApplication2\\WebApplication2",
-    "\\WebApplication2\\WebApplication2\\wwwroot",
-    "\\WebApplication2\\WebApplication2\\wwwroot\\css",
-    "\\WebApplication2\\WebApplication2\\wwwroot\\js",
-    "\\WebApplication2\\WebApplication2\\wwwroot\\lib"
+    ""
   ],
-  "SelectedNode": "\\WebApplication2\\WebApplication2\\wwwroot\\js\\script.js",
+  "SelectedNode": "\\WebApplication2.sln",
   "PreviewInSolutionExplorer": false
 }

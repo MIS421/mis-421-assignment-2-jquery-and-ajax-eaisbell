@@ -20,9 +20,9 @@ namespace WebApplication2
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
-
             app.UseDefaultFiles();
+            app.UseStaticFiles();
+        
 
             app.UseRouting();
 
